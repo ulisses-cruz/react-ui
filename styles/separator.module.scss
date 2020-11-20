@@ -1,0 +1,9 @@
+.separator {
+  position: absolute;
+  background-color: #222;
+
+  &:hover {
+    background-color: skyblue;
+  }
+}
+
